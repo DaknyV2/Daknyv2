@@ -1,8 +1,12 @@
 
 Hi 👋, I'm Dakny
+
 A passionate Full-Stack-Developer from Germany
+
 🔭 I’m currently working on Cloudy Scripts
+
 🌱 I’m currently learning JS Frameworks & C#
+
 📫 How to reach me https://www.instagram.com/dakny.xyz/
 wakatime
 
