@@ -3,7 +3,7 @@ Hi 👋, I'm Dakny
 
 A passionate Full-Stack-Developer from Germany
 
-🔭 I’m currently working on Cloudy Scripts
+🔭 I’m currently working on Nothing
 
 🌱 I’m currently learning JS Frameworks & C#
 
