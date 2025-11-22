@@ -11,5 +11,5 @@ A passionate Full-Stack-Developer from Germany
 wakatime
 
 Languages and Tools:
-css3 figma html5 javascript mysql nodejs php python lua
+css html javascript mysql nodejs php python lua 
 
