@@ -5,7 +5,7 @@ A passionate Full-Stack-Developer from Germany
 
 🔭 I’m currently working on Nothing
 
-🌱 I’m currently learning JS Frameworks & C#
+🌱 I’m currently learning Typescript
 
 📫 How to reach me https://www.instagram.com/dakny.xyz/
 wakatime
